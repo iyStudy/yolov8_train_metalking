@@ -1,0 +1,8 @@
+# Path
+path: ../yolo  # dataset root dir
+train: train  # train images (relative to 'path') 
+val: valid  # val images (relative to 'path') 
+
+# Classes
+nc: 1  # number of classes
+names: ['metal_king']  # class names
